@@ -8,4 +8,4 @@ fazer um aparelho portatil que traduza libras
 -como vai fazer a api?
 -vai ser com python mesmo?
 -qual linguagem vai usar?
--vai falar a palavra? vai escrever
+-vai falar a palavra? vai escrever 
